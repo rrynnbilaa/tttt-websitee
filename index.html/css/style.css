@@ -1,0 +1,44 @@
+body
+        {
+            background-color: #A7E99C;
+            color: white;
+            float: left; 
+            border: none;
+            outline: none;
+            cursor: pointer;
+            padding: 19px;
+            font-size: 15px;
+        }
+
+a:link
+        {
+            color: #EBA7AC;
+            background-color: black;
+            text-decoration: none;
+            padding: 18px;
+        }
+a:visited
+        {
+            color: black;
+            background-color: white;
+            text-decoration: none;
+            padding: 18px;
+        }
+a:hover
+        {
+            color: #825f87;
+            background-color: #EBA7AC;
+            text-decoration: underline;
+        }
+        
+a:active
+        { 
+            color: #FFDBE9;
+            background-color: #887694;
+            text-decoration: none;
+        }
+
+
+
+<body>
+ <html> 
